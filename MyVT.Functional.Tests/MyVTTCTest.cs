@@ -42,13 +42,13 @@ namespace Facebook.FunctionalTests
             //Enter Email
             var input1 = WebDriver.FindElement(By.Id("signInName"));
             input1.Clear();
-            input1.SendKeys("Jamie@Cloudthing.com");
+            input1.SendKeys("");
 
             //Enter Password
             Thread.Sleep(3000);
             var input2 = WebDriver.FindElement(By.Id("password"));
             input2.Clear();
-            input2.SendKeys("Password123456!");
+            input2.SendKeys("");
 
             //Click on Sign In Button
             Thread.Sleep(2000);
