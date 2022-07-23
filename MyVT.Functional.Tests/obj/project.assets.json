@@ -1306,11 +1306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JamieHart\\source\\repos\\MyVTTest\\MyVT.Functional.Tests\\MyVT.FunctionalTests.csproj",
+      "projectUniqueName": "C:\\Users\\JamieHart\\Source\\Repos\\JamieTestTraining\\MyVT.Functional.Tests\\MyVT.FunctionalTests.csproj",
       "projectName": "MyVT.FunctionalTests",
-      "projectPath": "C:\\Users\\JamieHart\\source\\repos\\MyVTTest\\MyVT.Functional.Tests\\MyVT.FunctionalTests.csproj",
+      "projectPath": "C:\\Users\\JamieHart\\Source\\Repos\\JamieTestTraining\\MyVT.Functional.Tests\\MyVT.FunctionalTests.csproj",
       "packagesPath": "C:\\Users\\JamieHart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JamieHart\\source\\repos\\MyVTTest\\MyVT.Functional.Tests\\obj\\",
+      "outputPath": "C:\\Users\\JamieHart\\Source\\Repos\\JamieTestTraining\\MyVT.Functional.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
